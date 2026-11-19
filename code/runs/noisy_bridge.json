@@ -1,0 +1,30 @@
+{
+ "runs/student_k4_lam0.1_s0_An.pt": {
+  "cos_median": 0.1288260004492065,
+  "cos_pos": 0.681875,
+  "frac_teacher": 0.06847805913575,
+  "pred_over_actual": 0.4309585671181223,
+  "ceiling": 0.8695947980868528
+ },
+ "runs/student_k4_lam0.1_s1_An.pt": {
+  "cos_median": 0.012019670749062114,
+  "cos_pos": 0.526875,
+  "frac_teacher": 0.0008853060560461757,
+  "pred_over_actual": 0.03117795457171953,
+  "ceiling": 0.8695947980868528
+ },
+ "runs/student_k4_lam0.1_s0.pt": {
+  "cos_median": -0.2168849122979002,
+  "cos_pos": 0.19125,
+  "frac_teacher": -0.05830412141126584,
+  "pred_over_actual": -0.12664989118522663,
+  "ceiling": 0.8728837168346315
+ },
+ "runs/student_k4_lam0.1_s1.pt": {
+  "cos_median": 0.09385707658678963,
+  "cos_pos": 0.619375,
+  "frac_teacher": 0.023649628288142054,
+  "pred_over_actual": 0.25352761953606345,
+  "ceiling": 0.8728837168346315
+ }
+}

@@ -1,0 +1,314 @@
+{
+ "A": {
+  "teacher": {
+   "n_points": 27,
+   "N": 100,
+   "slow08": 1.0,
+   "slow09": 1.0,
+   "marginal": 1.0,
+   "unstable": 0.0
+  },
+  "fits": [
+   {
+    "n_points": 1,
+    "N": 64,
+    "slow08": 29.0,
+    "slow09": 18.0,
+    "marginal": 16.0,
+    "unstable": 0.0,
+    "lam": 0.0001,
+    "seed": 0,
+    "q_median": 0.001155039994046092
+   },
+   {
+    "n_points": 0,
+    "lam": 0.0001,
+    "seed": 1,
+    "q_median": 0.0015751705504953861
+   },
+   {
+    "n_points": 0,
+    "lam": 0.0001,
+    "seed": 2,
+    "q_median": 0.0003020085277967155
+   },
+   {
+    "n_points": 1,
+    "N": 64,
+    "slow08": 40.0,
+    "slow09": 33.0,
+    "marginal": 19.0,
+    "unstable": 10.0,
+    "lam": 0.0001,
+    "seed": 3,
+    "q_median": 0.00013955155736766756
+   },
+   {
+    "n_points": 0,
+    "lam": 0.0001,
+    "seed": 4,
+    "q_median": 0.0009347343584522605
+   },
+   {
+    "n_points": 19,
+    "N": 64,
+    "slow08": 37.0,
+    "slow09": 25.0,
+    "marginal": 17.0,
+    "unstable": 4.0,
+    "lam": 0.01,
+    "seed": 0,
+    "q_median": 8.68905226525385e-06
+   },
+   {
+    "n_points": 0,
+    "lam": 0.01,
+    "seed": 1,
+    "q_median": 0.00020622015290427953
+   },
+   {
+    "n_points": 2,
+    "N": 64,
+    "slow08": 34.0,
+    "slow09": 14.0,
+    "marginal": 6.0,
+    "unstable": 1.0,
+    "lam": 0.01,
+    "seed": 2,
+    "q_median": 7.761317829135805e-05
+   },
+   {
+    "n_points": 29,
+    "N": 64,
+    "slow08": 34.0,
+    "slow09": 16.0,
+    "marginal": 9.0,
+    "unstable": 0.0,
+    "lam": 0.1,
+    "seed": 0,
+    "q_median": 1.4278131743594713e-07
+   },
+   {
+    "n_points": 27,
+    "N": 64,
+    "slow08": 39.0,
+    "slow09": 18.0,
+    "marginal": 6.0,
+    "unstable": 0.0,
+    "lam": 0.1,
+    "seed": 1,
+    "q_median": 6.540791730458295e-08
+   },
+   {
+    "n_points": 0,
+    "lam": 0.1,
+    "seed": 2,
+    "q_median": 0.01849634386599064
+   },
+   {
+    "n_points": 27,
+    "N": 64,
+    "slow08": 36.0,
+    "slow09": 25.0,
+    "marginal": 10.0,
+    "unstable": 0.0,
+    "lam": 0.1,
+    "seed": 3,
+    "q_median": 3.4929195180666284e-07
+   },
+   {
+    "n_points": 0,
+    "lam": 0.1,
+    "seed": 4,
+    "q_median": 0.007524366490542889
+   },
+   {
+    "n_points": 19,
+    "N": 64,
+    "slow08": 35.0,
+    "slow09": 11.0,
+    "marginal": 3.0,
+    "unstable": 0.0,
+    "lam": 1.0,
+    "seed": 0,
+    "q_median": 4.623808308679145e-06
+   },
+   {
+    "n_points": 30,
+    "N": 64,
+    "slow08": 3.0,
+    "slow09": 0.0,
+    "marginal": 0.0,
+    "unstable": 0.0,
+    "lam": 1.0,
+    "seed": 1,
+    "q_median": 3.9220532244144124e-07
+   },
+   {
+    "n_points": 22,
+    "N": 64,
+    "slow08": 21.0,
+    "slow09": 0.0,
+    "marginal": 0.0,
+    "unstable": 0.0,
+    "lam": 1.0,
+    "seed": 2,
+    "q_median": 1.7569730061950395e-06
+   },
+   {
+    "n_points": 0,
+    "lam": 10.0,
+    "seed": 0,
+    "q_median": 1.1293349266052246
+   },
+   {
+    "n_points": 0,
+    "lam": 10.0,
+    "seed": 1,
+    "q_median": 0.0011283019557595253
+   },
+   {
+    "n_points": 0,
+    "lam": 10.0,
+    "seed": 2,
+    "q_median": 3.269589433330111e-05
+   }
+  ]
+ },
+ "B": {
+  "teacher": {
+   "n_points": 0
+  },
+  "fits": [
+   {
+    "n_points": 31,
+    "N": 64,
+    "slow08": 2.0,
+    "slow09": 0.0,
+    "marginal": 0.0,
+    "unstable": 0.0,
+    "lam": 0.0001,
+    "seed": 0,
+    "q_median": 6.173182782731601e-07
+   },
+   {
+    "n_points": 0,
+    "lam": 0.0001,
+    "seed": 1,
+    "q_median": 0.0028927763924002647
+   },
+   {
+    "n_points": 0,
+    "lam": 0.0001,
+    "seed": 2,
+    "q_median": 0.0012260517105460167
+   },
+   {
+    "n_points": 32,
+    "N": 64,
+    "slow08": 36.0,
+    "slow09": 27.0,
+    "marginal": 13.0,
+    "unstable": 0.0,
+    "lam": 0.01,
+    "seed": 0,
+    "q_median": 1.0955273133106402e-08
+   },
+   {
+    "n_points": 32,
+    "N": 64,
+    "slow08": 0.0,
+    "slow09": 0.0,
+    "marginal": 0.0,
+    "unstable": 0.0,
+    "lam": 0.01,
+    "seed": 1,
+    "q_median": 4.296081783650152e-07
+   },
+   {
+    "n_points": 0,
+    "lam": 0.01,
+    "seed": 2,
+    "q_median": 3.876899427268654e-05
+   },
+   {
+    "n_points": 29,
+    "N": 64,
+    "slow08": 8.0,
+    "slow09": 2.0,
+    "marginal": 0.0,
+    "unstable": 0.0,
+    "lam": 0.1,
+    "seed": 0,
+    "q_median": 4.545001530686932e-08
+   },
+   {
+    "n_points": 22,
+    "N": 64,
+    "slow08": 34.0,
+    "slow09": 20.0,
+    "marginal": 10.0,
+    "unstable": 0.0,
+    "lam": 0.1,
+    "seed": 1,
+    "q_median": 5.2881837291351985e-06
+   },
+   {
+    "n_points": 29,
+    "N": 64,
+    "slow08": 22.0,
+    "slow09": 12.0,
+    "marginal": 6.0,
+    "unstable": 0.0,
+    "lam": 0.1,
+    "seed": 2,
+    "q_median": 6.810653303546133e-07
+   },
+   {
+    "n_points": 32,
+    "N": 64,
+    "slow08": 1.0,
+    "slow09": 1.0,
+    "marginal": 1.0,
+    "unstable": 0.0,
+    "lam": 1.0,
+    "seed": 0,
+    "q_median": 6.578974165449836e-08
+   },
+   {
+    "n_points": 23,
+    "N": 64,
+    "slow08": 24.0,
+    "slow09": 11.0,
+    "marginal": 2.0,
+    "unstable": 0.0,
+    "lam": 1.0,
+    "seed": 2,
+    "q_median": 4.173778052063426e-07
+   },
+   {
+    "n_points": 0,
+    "lam": 10.0,
+    "seed": 0,
+    "q_median": 0.001953915925696492
+   },
+   {
+    "n_points": 11,
+    "N": 64,
+    "slow08": 23.0,
+    "slow09": 17.0,
+    "marginal": 2.0,
+    "unstable": 10.0,
+    "lam": 10.0,
+    "seed": 1,
+    "q_median": 0.00018611161794979125
+   },
+   {
+    "n_points": 0,
+    "lam": 10.0,
+    "seed": 2,
+    "q_median": 0.008836004883050919
+   }
+  ]
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "runs/lfads_A_kl0.0001_s0_tr192.pt": {
+  "frac_units_z95": 0.328125,
+  "sens_share_on_z95": 0.9758517146110535,
+  "push_share_on_z95": 0.012999125756323338,
+  "z_weighted_by_sens": 0.9825924634933472,
+  "z_weighted_by_push": 0.4649140238761902
+ },
+ "runs/lfads_Ac_kl0.0001_s0_tr192.pt": {
+  "frac_units_z95": 0.34375,
+  "sens_share_on_z95": 0.9404746294021606,
+  "push_share_on_z95": 0.004764776211231947,
+  "z_weighted_by_sens": 0.9732106924057007,
+  "z_weighted_by_push": 0.3474613428115845
+ },
+ "runs/lfads_Ac_kl0.0001_s0_tr192_nosamp.pt": {
+  "frac_units_z95": 0.078125,
+  "sens_share_on_z95": 0.7402437329292297,
+  "push_share_on_z95": 3.868898420478217e-05,
+  "z_weighted_by_sens": 0.9599171876907349,
+  "z_weighted_by_push": 0.06520970165729523
+ },
+ "runs/lfads_A_kl0.0001_s0_tr192_nosamp.pt": {
+  "frac_units_z95": 0.109375,
+  "sens_share_on_z95": 0.9459749460220337,
+  "push_share_on_z95": 0.0001213839859701693,
+  "z_weighted_by_sens": 0.9759858846664429,
+  "z_weighted_by_push": 0.14231424033641815
+ },
+ "runs/lfads_A_kl0.0001_s1_tr192.pt": {
+  "frac_units_z95": 0.28125,
+  "sens_share_on_z95": 0.9390377998352051,
+  "push_share_on_z95": 0.011471780017018318,
+  "z_weighted_by_sens": 0.97235506772995,
+  "z_weighted_by_push": 0.47130751609802246
+ },
+ "runs/lfads_A_kl0.0001_s2_tr192.pt": {
+  "frac_units_z95": 0.3046875,
+  "sens_share_on_z95": 0.9523525834083557,
+  "push_share_on_z95": 0.02703714929521084,
+  "z_weighted_by_sens": 0.9808785915374756,
+  "z_weighted_by_push": 0.5547525882720947
+ },
+ "runs/lfads_A_kl1e-05_s0_tr192.pt": {
+  "frac_units_z95": 0.3125,
+  "sens_share_on_z95": 0.9815047979354858,
+  "push_share_on_z95": 0.004646186251193285,
+  "z_weighted_by_sens": 0.9790430068969727,
+  "z_weighted_by_push": 0.3743516802787781
+ },
+ "runs/lfads_A_kl1e-05_s1_tr192.pt": {
+  "frac_units_z95": 0.28125,
+  "sens_share_on_z95": 0.9286262392997742,
+  "push_share_on_z95": 0.006294268183410168,
+  "z_weighted_by_sens": 0.9716411828994751,
+  "z_weighted_by_push": 0.42356929183006287
+ },
+ "runs/lfads_Ac_kl1e-05_s0_tr192.pt": {
+  "frac_units_z95": 0.171875,
+  "sens_share_on_z95": 0.932300329208374,
+  "push_share_on_z95": 0.0005561088910326362,
+  "z_weighted_by_sens": 0.9684198498725891,
+  "z_weighted_by_push": 0.20563015341758728
+ }
+}

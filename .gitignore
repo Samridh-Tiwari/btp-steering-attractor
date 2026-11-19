@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+# large or regenerable files: fitted models, generated spikes, MC_Maze data, logs
+code/runs/*.pt
+!code/runs/teacher*.pt
+code/logs/
+*.nwb
+report/*.aux
+report/*.log
+report/*.bbl
+report/*.blg
+report/*.out

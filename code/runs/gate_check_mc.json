@@ -1,0 +1,22 @@
+{
+ "runs/lfads_MC_kl0.0001_s0.pt": {
+  "frac_units_z95": 0.359375,
+  "sens_share_on_z95": 0.7859608829021454,
+  "push_share_on_z95": 0.018486143089830875
+ },
+ "runs/lfads_MC_kl1e-05_s0.pt": {
+  "frac_units_z95": 0.359375,
+  "sens_share_on_z95": 0.8081963360309601,
+  "push_share_on_z95": 0.013310058508068323
+ },
+ "runs/lfads_MC_kl0.0001_s1.pt": {
+  "frac_units_z95": 0.328125,
+  "sens_share_on_z95": 0.8483459949493408,
+  "push_share_on_z95": 0.01280715549364686
+ },
+ "runs/lfads_MC_kl1e-05_s1.pt": {
+  "frac_units_z95": 0.328125,
+  "sens_share_on_z95": 0.8946955502033234,
+  "push_share_on_z95": 0.013456169050186872
+ }
+}

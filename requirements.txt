@@ -1,0 +1,6 @@
+torch>=2.0
+numpy
+scipy
+matplotlib
+pynwb        # only for reading MC_Maze (mc_maze.py prep)
+cairosvg     # only for turning the SVG diagrams into PDF/PNG
